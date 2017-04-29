@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Pros</string>
+    <string name="txvTituloNovoServico">Serviço</string>
+    <string name="tituloSolicitacao">Solicitação</string>
+    <string name="tituloEquipamento">Equipamento</string>
+    <string name="labelNumeroEquipamento">NÚMERO DO EQUIPAMENTO</string>
+    <string name="labelTipoEquipamento">* TIPO EQUIPAMENTO</string>
+    <string name="equipamentoHint" />
+    <string name="labelEquipamento">* EQUIPAMENTO </string>
+    <string name="labelLocalizacao">* LOCALIZACAO</string>
+    <string name="labelTipoServico">* TIPO SERVICO</string>
+    <string name="txvAreaAtuacao">* ÁREA DE ATUAÇÃO</string>
+    <string name="txvSolicitante">* SOLICITANTE </string>
+    <string name="txvTelefone">TELEFONE PARA CONTATO</string>
+    <string name="txvDataPrevista">DATA PREVISTA</string>
+    <string name="txvDescricaoServico">* DESCRIÇÃO PARA ABERTURA DO SERVIÇO</string>
+
+</resources>
